@@ -6,3 +6,5 @@
 * Used MonkeyLearn API to extract keywords from description of positions
 * Designed algorithms (e.g., content-based recommendation) to implement job recommendation
 * Deployed the service to AWS EC2.
+
+**Run the project on Apache Tomcat, and open [http://localhost:8080/jupiter](http://localhost:8080/jupiter) to view it in the browser.**
